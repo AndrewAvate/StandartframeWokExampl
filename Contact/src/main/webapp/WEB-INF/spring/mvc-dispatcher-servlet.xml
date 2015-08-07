@@ -25,7 +25,7 @@
 
 	<import resource="classpath:META-INF/spring/jpa-context.xml" />
 	<import resource="classpath:META-INF/spring/jackson-context.xml" />
-	<!-- <import resource="security-context.xml"/> -->
+	<import resource="security-context.xml"/>
 
 
 </beans>
