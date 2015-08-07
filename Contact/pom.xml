@@ -10,7 +10,7 @@
 
 
 	<properties>
-		<spring.version>4.1.7.RELEASE</spring.version>
+		<spring.version>4.1.6.RELEASE</spring.version>
 		<spring.data.version>1.8.1.RELEASE</spring.data.version>
 		<joda.hibernate.version>1.4</joda.hibernate.version>
 		<guava.version>18.0</guava.version>

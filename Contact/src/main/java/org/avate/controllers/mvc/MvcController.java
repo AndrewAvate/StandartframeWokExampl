@@ -23,7 +23,7 @@ public class MvcController {
 		return "helloWorld";
 	}
 	
-	@RequestMapping(value="/protection", method = RequestMethod.GET)
+	@RequestMapping(value="/admin/protection", method = RequestMethod.GET)
 	public String protection(Model model) {
 		model.addAttribute("name", "This is protected page");
 		return "helloWorld";
